@@ -1,2 +1,6 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/pAqJXfzR)
+Ich hatte schon einige Ideen, über was ich alles in meiner Website schreiben möchte, wollte aber noch mehr Unterthemen haben. Für weitere Ideen habe ich KI (ChatGPT)gefragt. Eingabe: "ich erstelle eine website über hühner. welche sachen könnte ich dort erwähnen also untertitel"
+
+Für den Steckbrief habe ich die folgeden Website benutzt: 
+https://www.biologie-schule.de/huhn-steckbrief.php
+https://www.tierchenwelt.de/huehner/3074-huhn.html
 
