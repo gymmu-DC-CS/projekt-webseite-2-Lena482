@@ -19,3 +19,8 @@ Danach habe ich noch ein kurzen Text über das Essen von Hühner gemacht.
 Infos von: https://www.fressnapf.ch/de/magazin/voegel/huehner/huehnerfutter/#nicht und wieder aus eigenem Wissen. 
 
 Zu dem Text über die besten Hühnerrassen habe ich diese Website verwendet für die Infos: https://www.huehner-haltung.de/huehnerrassen/besondere/huehnerrassen-fuer-anfaenger/
+
+über das Osterküken konnte ich nicht so viele Infos finden, da fast alles über das Buch war. Deshalb habe ich Chatgpt gefragt: "gib mir infos über das osterküken" und konnte deshalb es bisschen über die Bedeutung schreiben. Ich habe auch das Bilderbuch dazu erwähnt, da ich es früher als Kind manchmal gelesen/angeschaut habe.
+Quellen: https://nord-sued.com/programm/osterkueken/
+
+
