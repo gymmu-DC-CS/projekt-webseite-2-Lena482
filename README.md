@@ -15,4 +15,7 @@ https://blog.omlet.de/2025/02/19/must-haves-fur-jeden-huhnerhalter/
 Ich habe ein kurzen Text über Eier verfasst. Die Infos habe ich aus: https://www.merkur.de/leben/tiere/gruene-eier-vom-eigenen-huhn-diese-rassen-machen-es-moeglich-zr-94197786.html
 und von meinem eigenen Wissen
 
+Danach habe ich noch ein kurzen Text über das Essen von Hühner gemacht. 
+Infos von: https://www.fressnapf.ch/de/magazin/voegel/huehner/huehnerfutter/#nicht und wieder aus eigenem Wissen. 
 
+Zu dem Text über die besten Hühnerrassen habe ich diese Website verwendet für die Infos: https://www.huehner-haltung.de/huehnerrassen/besondere/huehnerrassen-fuer-anfaenger/
