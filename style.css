@@ -1,9 +1,22 @@
 body {
     background-color: rgb(120, 174, 120);
     font-family: Arial, sans-serif; 
-    margin: 20px;
+    margin: 30px;
 }
 
 h1 {
     color: rgb(29, 68, 29);
+    font-size: 48px;
+}
+
+h3 {
+    font-size: 36px;
+}
+
+p {
+    font-size: 24px;
+}
+
+li {
+    font-size: 24px;
 }
