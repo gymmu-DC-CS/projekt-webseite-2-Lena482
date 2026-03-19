@@ -24,3 +24,7 @@ Zu dem Text über die besten Hühnerrassen habe ich diese Website verwendet für
 Quellen: https://nord-sued.com/programm/osterkueken/
 
 
+19.03.2026
+Ich habe Chatgpt nach einen Code gefragt, damit ich auf etwas vom Inhaltsverzeichnis klicken kann und dann direkt zum dazugehörigen Text komme.
+
+Danach habe ich den Hintergrund und die Schriftfarbe- und art geändrert. Das ändere ich vielleicht später noch aber für den Moment reicht das. 
