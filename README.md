@@ -25,9 +25,11 @@ Quellen: https://nord-sued.com/programm/osterkueken/
 
 
 19.03.2026
-Ich habe Chatgpt nach einen Code gefragt, damit ich auf etwas vom Inhaltsverzeichnis klicken kann und dann direkt zum dazugehörigen Text komme.
+Ich habe Chatgpt nach einen Code gefragt, damit ich auf etwas vom Inhaltsverzeichnis klicken kann und dann direkt zum dazugehörigen Text komme. Ich habe verstanden, dass "href" sozusagen die Adresse angibt (also ein Namen danach zB. Eier) und "id" zeigt, dass hier die Adresse ist (mit dem gleichen Namen zB. Eier).
 
 Danach habe ich den Hintergrund und die Schriftfarbe- und art geändrert. Das ändere ich vielleicht später noch aber für den Moment reicht das. 
 
 Text über Vewandte der Dinos erstellt. Infos: https://www.omlet.de/guide/h%C3%BChner/%C3%BCber_h%C3%BChner/%E2%80%9Ehuhnisch%E2%80%9C_f%C3%BCr_anf%C3%A4nger/
+
+Fun Facts über Hühner. Infos: https://www.vier-pfoten.ch/kampagnen-themen/tiere/huehner/10-fakten-ueber-huehner
 
