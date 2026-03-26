@@ -33,3 +33,8 @@ Text über Vewandte der Dinos erstellt. Infos: https://www.omlet.de/guide/h%C3%B
 
 Fun Facts über Hühner. Infos: https://www.vier-pfoten.ch/kampagnen-themen/tiere/huehner/10-fakten-ueber-huehner
 
+26.03.2026
+Ich habe zuerst eine kurze Einleitung gemacht für meine Website. Dann habe ich das erste Bild eingefügt. 
+
+Ich habe ChatGPT gefragt, wie ich das Bild und den Text nebeneinander machen kann. 
+das habe ich daraus gelernt: <div class="einleitung"> ist quasi wie ein Baukasten, darin sind der Text und das Bild enthalten ("einleitung" ist nur der Name des Kastens), display: flex; heisst, dass die Dinge nebeneinander kommen, align-items: center; alles kommt auf eine Linie,  gap: 20px; ist der Abstand zwischen dem text und dem Bild, 
