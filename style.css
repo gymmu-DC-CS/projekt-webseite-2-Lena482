@@ -27,10 +27,49 @@ display: flex;
     gap: 20px;
 }
 
-img {
+
+.bild {
     width: 25%;
+}
+
+.bild img {
+    width: 100%;
+    height: auto;
 }
 
 .text {
     width: 75%;
+    padding-left: 20px;
+}
+
+
+.karten-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.karte {
+    width: 200px;
+    text-decoration: none;
+    color: black;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    overflow: hidden;
+    transition: transform 0.2s;
+}
+
+.karte img {
+    width: 100%;
+    height: 120px;
+    object-fit: cover;
+}
+
+.karte h4 {
+    padding: 10px;
+    text-align: center;
+}
+
+.karte:hover {
+    transform: scale(1.05);
 }
