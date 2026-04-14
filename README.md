@@ -37,4 +37,4 @@ Fun Facts über Hühner. Infos: https://www.vier-pfoten.ch/kampagnen-themen/tier
 Ich habe zuerst eine kurze Einleitung gemacht für meine Website. Dann habe ich das erste Bild eingefügt. 
 
 Ich habe ChatGPT gefragt, wie ich das Bild und den Text nebeneinander machen kann. 
-das habe ich daraus gelernt: <div class="einleitung"> ist quasi wie ein Baukasten, darin sind der Text und das Bild enthalten ("einleitung" ist nur der Name des Kastens), display: flex; heisst, dass die Dinge nebeneinander kommen, align-items: center; alles kommt auf eine Linie,  gap: 20px; ist der Abstand zwischen dem text und dem Bild, 
+das habe ich daraus gelernt: <div class="einleitung"> ist quasi wie ein Baukasten, darin sind der Text und das Bild enthalten ("einleitung" ist nur der Name des Kastens), display: flex; heisst, dass die Dinge nebeneinander kommen, align-items: center; alles kommt auf eine Linie,  gap: 20px; ist der Abstand zwischen dem text und dem Bild, bei style.css habe ich noch mein Text und img 20% und 80% eingestellt, das heisst, dass sie soviel % des Bildschrims einnehmen.

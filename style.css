@@ -21,13 +21,16 @@ li {
     font-size: 24px;
 }
 
-einleitung {
+.einleitung {
 display: flex;
     align-items: center;
     gap: 20px;
 }
 
 img {
-    width: 200px;
+    width: 25%;
+}
 
+.text {
+    width: 75%;
 }
