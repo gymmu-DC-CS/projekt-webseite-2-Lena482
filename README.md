@@ -38,3 +38,11 @@ Ich habe zuerst eine kurze Einleitung gemacht für meine Website. Dann habe ich 
 
 Ich habe ChatGPT gefragt, wie ich das Bild und den Text nebeneinander machen kann. 
 das habe ich daraus gelernt: <div class="einleitung"> ist quasi wie ein Baukasten, darin sind der Text und das Bild enthalten ("einleitung" ist nur der Name des Kastens), display: flex; heisst, dass die Dinge nebeneinander kommen, align-items: center; alles kommt auf eine Linie,  gap: 20px; ist der Abstand zwischen dem text und dem Bild, bei style.css habe ich noch mein Text und img 20% und 80% eingestellt, das heisst, dass sie soviel % des Bildschrims einnehmen.
+
+14.04.2026
+Ich habe zwar mein Text, aber ich möchte die website noch gut gestalten. Mithilfe von Chatgpt habe ich einen Code erstellt, um meine Website so zu gestalten, wie ich möchte. Das funktioniert schon ganz gut, ich muss sie aber noch besser gestalten.
+
+15.04.2026
+Ich habe angefangen, die Website ein bisschen besser zu gestalten. Mir haben die Farben nicht so gefallen, weshalb ich die geändert habe. 
+Dann habe ich Bilder gesammelt, die ich in die Boxen beim Inhaltsverzeichnis machen möchte.
+Ich hatte das Problem, dass manchmal, wenn ich auf eine Box klickte, sich die Seite nicht geöffnet hat. Jetzt habe ich aber gemerkt, dass ich bei index.html und bei der html datei mit den Infos zu einem bestimmten Thema unterschiedliche Namen gewählt habe. Als ich das Problem bemerkt habe, konnte ich es schnell beheben und jetzt funktioniert alles wie es sollte.
